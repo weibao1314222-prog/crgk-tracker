@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>全国成人高考报考信息追踪 · 2026</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <h1>🎓 全国成人高考报考信息追踪</h1>
+      <p class="subtitle">汇总 31 个省市区教育考试院报考公告 · 自动拆分时间节点 · 统考时间：<span id="examDate">—</span></p>
+      <div class="season-toggle">
+        <button id="t2026" class="active">2026 实时</button>
+        <button id="t2025">2025 参考</button>
+      </div>
+    </header>
+
+    <div id="banner" class="banner"></div>
+
+    <div id="stats" class="stats"></div>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="搜索省份 / 教育考试院…" />
+      <div id="regionChips" class="chips"></div>
+      <div id="statusChips" class="chips"></div>
+    </div>
+
+    <div id="grid" class="grid"></div>
+
+    <footer class="foot">
+      <div>数据最后更新：<span id="lastUpdated">—</span> ｜ 各省公告以当地教育考试院官网为准</div>
+      <div>提示：本页为信息聚合参考，报考请以官方公告原文为准；每日自动任务会核实并更新 2026 实时数据。</div>
+    </footer>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="live2026.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

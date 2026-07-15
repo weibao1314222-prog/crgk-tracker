@@ -1,0 +1,6 @@
+# 不推到公网仓库的内容
+.workbuddy/
+build_data.py
+split_data.js
+*.log
+.DS_Store
