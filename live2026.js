@@ -3,17 +3,17 @@
 // status: 'pending'(未发布/灰色) | 'published'(已发布/点亮)
 window.LIVE2026 = {
   "BJ": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "考试生 8月25日10:00–8月29日24:00；免试生 8月25日10:00–8月28日24:00",
+    "confirm": "免试生 8月29日 9:00–11:30、13:30–16:30 现场审核；照顾加分考生 8月30日 9:00–11:30、13:30–16:30 现场审核",
+    "pay": "9月8日10:00–9月11日24:00",
     "ticket": "",
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://www.bjeea.cn/html/ckcz/tzgg/2026/0715/88278.html",
+    "updatedAt": "2026-07-21",
+    "note": "官方已发布《2026年北京市成人高考报名相关工作安排》(2026-07-15)。准考证打印、统考时间、成绩/录取查询等详见8月中下旬北京教育考试院后续公告。"
   },
   "TJ": {
     "status": "pending",
@@ -63,9 +63,9 @@ window.LIVE2026 = {
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
+    "source": "https://www.hebeea.edu.cn/c/2026-07-08/493231.html",
     "updatedAt": "",
-    "note": ""
+    "note": "官方已于2026-07-08发布《关于报考2026河北省成人高考专升本层次考生提前进行学历查询的提示》（报名预计8月下旬），完整报名/招生工作通知尚未发布。"
   },
   "SX": {
     "status": "pending",
@@ -193,9 +193,9 @@ window.LIVE2026 = {
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
+    "source": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7250",
     "updatedAt": "",
-    "note": ""
+    "note": "官方已于2026-06-23发布《山东省2026年成人高考报名有关事项的公告》（专升本学信网验证预备），完整报名日程公告尚未发布。"
   },
   "HA": {
     "status": "pending",
@@ -362,9 +362,9 @@ window.LIVE2026 = {
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
+    "source": "https://www.gxeea.cn/view/content_1140_33062.htm",
     "updatedAt": "",
-    "note": ""
+    "note": "官方已于2026-07-15发布《关于2026年我区成人高校招生全国统一考试报名有关事项的温馨提示》（明确报名安排将随后发布），完整报名日程公告尚未发布。"
   },
   "XZ": {
     "status": "pending",
