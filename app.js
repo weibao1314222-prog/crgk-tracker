@@ -160,8 +160,17 @@
     if (d.source) {
       var sr = el("div", "drow");
       sr.appendChild(el("div", "dk", "信息来源"));
-      sr.appendChild(el("div", "dv"));
-      sr.querySelector(".dv").appendChild(el("span", "src", escapeHtml(d.source)));
+      var dv = el("div", "dv");
+      // 自动补全协议头（数据里有时只有域名+路径）
+      var href = d.source.trim();
+      if (href && !/^https?:\/\//i.test(href)) href = "https://" + href;
+      var a = el("a", "src", "🔗 " + escapeHtml(d.source));
+      a.href = href;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.onclick = function (e) { e.stopPropagation(); }; // 防止触发卡片的展开/收起
+      dv.appendChild(a);
+      sr.appendChild(dv);
       detail.appendChild(sr);
     }
     if (d.note) {
