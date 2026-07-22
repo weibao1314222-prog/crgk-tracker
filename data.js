@@ -55,7 +55,7 @@ window.ADMISSION_DATA = {
       "code": "BJ",
       "name": "北京",
       "region": "直辖市",
-      "site": "https://www.bjiea.cn",
+      "site": "https://www.bjeea.cn",
       "siteName": "北京教育考试院",
       "ref2025": {
         "online": "8月27日10:00 至 8月31日24:00",
@@ -188,7 +188,7 @@ window.ADMISSION_DATA = {
       "code": "JL",
       "name": "吉林",
       "region": "省",
-      "site": "http://www.jleea.edu.cn",
+      "site": "https://www.jleea.com.cn",
       "siteName": "吉林省教育考试院",
       "ref2025": {
         "online": "9月1日8:30 至 9月7日16:30",
