@@ -214,7 +214,8 @@ h1 { font-size: 30px; margin: 0 0 10px; letter-spacing: .5px; font-weight: 800; 
 .detail .drow:last-child { border-bottom: 0; }
 .detail .dk { color: var(--muted); width: 84px; flex: none; font-weight: 600; }
 .detail .dv { color: var(--ink-soft); }
-.detail .src { font-size: 12.5px; color: var(--brand); word-break: break-all; }
+.detail .src { font-size: 12.5px; color: var(--brand); word-break: break-all; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; display: inline-block; max-width: 100%; }
+.detail .src:hover { color: #4338ca; text-decoration-thickness: 2px; background: #eef2ff; padding: 1px 4px; border-radius: 4px; }
 
 /* ---------- Page footer ---------- */
 footer.foot { margin-top: 48px; font-size: 13px; color: var(--muted); text-align: center; line-height: 1.9; }
