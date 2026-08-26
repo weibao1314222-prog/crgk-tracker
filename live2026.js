@@ -55,30 +55,30 @@ window.LIVE2026 = {
     "note": ""
   },
   "HE": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "统考生 8月25日9:00 至 9月2日16:00（每天22:00–次日6:00系统维护）",
+    "confirm": "现场核验 9月9日至11日（9:00–12:00，13:30–17:30）",
+    "pay": "9月9日9:00 至 9月12日16:00",
     "ticket": "",
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "https://www.hebeea.edu.cn/c/2026-07-08/493231.html",
-    "updatedAt": "",
-    "note": "官方已于2026-07-08发布《关于报考2026河北省成人高考专升本层次考生提前进行学历查询的提示》（报名预计8月下旬），完整报名/招生工作通知尚未发布。"
+    "source": "https://www.hebeea.edu.cn/c/2026-08-21/493270.html",
+    "updatedAt": "2026-08-26",
+    "note": "河北省教育考试院已发布2026年成人高考报名相关公告(2026-08-21)。统考时间以教育部公布为准。"
   },
   "SX": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "8月28日8:00 — 9月2日18:00",
+    "confirm": "现场审核 9月10日8:00 — 9月15日18:00（网上信息审核 9月10日—9月14日）",
+    "pay": "9月10日8:00 — 9月16日18:00",
     "ticket": "",
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "http://www.sxkszx.cn/news/2026821/n2640129306.html",
+    "updatedAt": "2026-08-26",
+    "note": "山西省招生考试管理中心已发布《山西省2026年成人高校招生考试报名公告》(2026-08-21)。准考证打印、统考、成绩/录取查询等另文公布。"
   },
   "LN": {
     "status": "pending",
@@ -115,9 +115,9 @@ window.LIVE2026 = {
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://www.lzk.hl.cn/",
+    "updatedAt": "2026-08-26",
+    "note": "官方已于2026-07-29发布《关于黑龙江省2026年全国成人高等学校招生统一考试报名前期准备事项的通知》（招生工作预计8月下旬启动），完整报名/招生公告尚未发布。"
   },
   "JS": {
     "status": "pending",
@@ -154,9 +154,9 @@ window.LIVE2026 = {
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://www.ahzsks.cn/crgxzs/9121.htm",
+    "updatedAt": "2026-08-26",
+    "note": "安徽省教育招生考试院已发布《2026年成人高考报名温馨提示》：报名工作9月初开始，须提前通过皖事通APP完成四级实名认证、学信网APP学历核对；唯一官方报名网 crbm.ahzsks.cn；报名考试费120元/人。完整报名日程公告待发布。"
   },
   "FJ": {
     "status": "pending",
@@ -224,17 +224,17 @@ window.LIVE2026 = {
     "note": ""
   },
   "HN": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
-    "ticket": "",
-    "exam": "",
+    "status": "published",
+    "online": "本省户籍/现役军人 8月31日8:00–9月10日12:00；外省户籍/港澳台/外国侨民 8月31日8:00–9月1日17:00（注册、实名、学历认证、填报、上传材料）",
+    "confirm": "选择确认点：本省户籍/现役军人 9月7日8:00–9月10日17:00；外省户籍等 9月11日8:00–9月12日17:00；部分考生现场审核 9月7日8:00–9月12日17:00",
+    "pay": "9月15日17:00前（潇湘成招APP缴费）",
+    "ticket": "10月11日后 通过“潇湘成招”APP下载打印",
+    "exam": "10月中旬（以教育部通知为准）",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://www.hunantoday.cn/news/xhn/202608/33575315.html",
+    "updatedAt": "2026-08-26",
+    "note": "湖南省教育考试院《湖南省2026年成人高校招生考试报名公告》（全流程“潇湘成招”APP；报名工作8月31日–9月15日）。"
   },
   "GD": {
     "status": "pending",
@@ -250,30 +250,30 @@ window.LIVE2026 = {
     "note": ""
   },
   "HI": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "8月25日8:00 至 9月1日17:30（网上注册、填报、缴费，系统截止后关闭）",
+    "confirm": "网上审核未通过者须报名期内到报名点现场审核",
+    "pay": "与网上报名同步（8月25日8:00–9月1日17:30），考试费每科50元",
     "ticket": "",
-    "exam": "",
+    "exam": "10月17日至18日",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://ea.hainan.gov.cn/ywdt/crgkdxyyslj/202608/t20260820_4131332.html",
+    "updatedAt": "2026-08-26",
+    "note": "海南省考试局《海南省2026年成人高考报名公告》(2026-08-20)。全省设海口、三亚、琼海、儋州、三沙5个考区；准考证打印时间以省考试局公告为准。"
   },
   "SC": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "8月31日至9月5日（每天9:00–22:00）",
+    "confirm": "线上审核 9月6日–12日；线下现场审核 9月17日–21日",
+    "pay": "9月14日至22日（每天9:00–22:00）",
     "ticket": "",
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "",
-    "updatedAt": "",
-    "note": ""
+    "source": "https://www.sceea.cn/Html/202608/Newsdetail_4946.html",
+    "updatedAt": "2026-08-26",
+    "note": "四川省教育考试院已发布2026年成人高考报名公告(2026-08-20)。统考时间以教育部公布为准。"
   },
   "GZ": {
     "status": "pending",
@@ -354,17 +354,17 @@ window.LIVE2026 = {
     "note": ""
   },
   "GX": {
-    "status": "pending",
-    "online": "",
-    "confirm": "",
-    "pay": "",
+    "status": "published",
+    "online": "第一阶段·第一时段 8月28日9:00–8月31日17:00（报名及提交审核材料）；第二时段 8月31日17:00–9月1日17:00（补充审核）；第二阶段 9月2日9:00–9月3日17:00（选择考区）",
+    "confirm": "报名阶段按系统提示线上或线下审核；密码重置、手机号变更、照片更换等需线下审核",
+    "pay": "9月2日9:00–9月3日17:00（第二阶段，与考区选择同步）",
     "ticket": "",
     "exam": "",
     "score": "",
     "admit": "",
-    "source": "https://www.gxeea.cn/view/content_1140_33062.htm",
-    "updatedAt": "",
-    "note": "官方已于2026-07-15发布《关于2026年我区成人高校招生全国统一考试报名有关事项的温馨提示》（明确报名安排将随后发布），完整报名日程公告尚未发布。"
+    "source": "https://www.gxeea.cn/view/content_1140_33365.htm",
+    "updatedAt": "2026-08-26",
+    "note": "广西招生考试院《2026年我区成人高校招生全国统一考试网上报名将于8月28日9:00开始》(2026-08-24)；报名办法详见 https://www.gxeea.cn/view/content_1140_33361.htm 。统考时间以教育部公布为准。"
   },
   "XZ": {
     "status": "pending",
